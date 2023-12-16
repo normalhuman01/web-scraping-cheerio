@@ -7,13 +7,13 @@ Nodejs Cheerio WebScraping
 Clonar el repositorio
 
 ```
-git clone https://github.com/AlexanderPrincipe/WebScraping.git
+git clone https://github.com/normalhuman01/web-scraping-cheerio.git
 ```
 
 Entrar a la carpeta del proyecto
 
 ```
-cd WebScraping
+cd web-scraping-cheerio
 ```
 
 Instalar todas las dependencias
